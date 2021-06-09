@@ -1,3 +1,3 @@
-module github.com/knusbaum/gobuildissue
+module github.com/knusbaum/goissue
 
 go 1.16
